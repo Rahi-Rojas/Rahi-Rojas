@@ -18,6 +18,7 @@ Un apasionado desarrollador Backend de Perú enfocado en el ecosistema de **Java
 
 ## 📊 Mis Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://vercel.app)
-
-![Top Lenguajes](https://vercel.app)
+<p align="center">
+  <img src="https://vercel.app" alt="Estadísticas de GitHub" height="180px"/>
+  <img src="https://vercel.app" alt="Top Lenguajes" height="180px"/>
+</p>
