@@ -6,21 +6,18 @@ Un apasionado desarrollador Backend de Perú enfocado en el ecosistema de **Java
 
 ## 🛠️ Tecnologías y Herramientas
 
-<p align="left">
-  <img src="https://githubusercontent.com" alt="java" width="45" height="45"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="spring" width="45" height="45"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="python" width="45" height="45"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="javascript" width="45" height="45"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="html5" width="45" height="45"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="css3" width="45" height="45"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="git" width="45" height="45"/>
-</p>
+![Java](https://shields.io)
+![Spring](https://shields.io)
+![Python](https://shields.io)
+![JavaScript](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![Git](https://shields.io)
 
 ---
 
 ## 📊 Mis Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://vercel.app" alt="Estadísticas de GitHub" height="180px"/>
-  <img src="https://vercel.app" alt="Top Lenguajes" height="180px"/>
-</p>
+![Estadísticas de GitHub](https://vercel.app)
+
+![Top Lenguajes](https://vercel.app)
